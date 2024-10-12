@@ -1,10 +1,10 @@
 # Clicker Game Developed with ChatGPT
 
 DEMO
-
+[https://shimizu.github.io/clicker-dev-with-chatgpt/](https://shimizu.github.io/clicker-dev-with-chatgpt/)
 
 開発ログ
-https://chatgpt.com/share/6709fabc-3330-800d-bffe-5fb9bb9af8e4
+[https://chatgpt.com/share/6709fabc-3330-800d-bffe-5fb9bb9af8e4](https://chatgpt.com/share/6709fabc-3330-800d-bffe-5fb9bb9af8e4)
 
 
 ## 概要
