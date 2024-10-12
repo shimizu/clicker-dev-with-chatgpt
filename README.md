@@ -48,7 +48,11 @@ javaScriptは知っているが、TypeScriptは少々、Phaser.js(ゲームエ�
 
 ## 仕様したアセット
 
-画像ファイルはすべてChatGPTで生成したものです。
+画像
+ChatGPTで生成
+
+FONT
+[ベストテンFONT - フロップデザイン](https://flopdesign.booth.pm/items/2747965)
 
 SFX
 [RETRO SOUNDS by DASK](https://dagurasusk.itch.io/retrosounds)
